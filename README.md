@@ -44,9 +44,9 @@ To identify and analyze factors contributing to customer churn using a real-worl
   - Churn is marginally higher among senior female users.
 
 ## 📊 Dataset and Dashboard View
-- **[Download Dataset](https://github.com/SRK0724/Telecom-Customer-Churn/blob/main/Telco-Customer-Churn.xlsx)**
+  ![Download Dataset](https://github.com/SRK0724/Telecom-Customer-Churn/blob/main/Telco-Customer-Churn.xlsx)
   
-  [!Dashboard View](https://github.com/SRK0724/Telecom-Customer-Churn/blob/main/Customer%20Churn%20Dashboard.png)
+  ![Dashboard View](https://github.com/SRK0724/Telecom-Customer-Churn/blob/main/Customer%20Churn%20Dashboard.png)
 
 ## 🎯 Key Business Takeaways
 - Promote longer contract terms to reduce churn risk.
